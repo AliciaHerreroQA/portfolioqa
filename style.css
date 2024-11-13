@@ -48,7 +48,7 @@ section {
 h2 {
     font-size: 1.6rem;
     margin-bottom: 1rem;
-    color: #34495e; 
+    color: #c93b6f; 
 }
 /* Estilos del formulario */
 form {
@@ -60,9 +60,9 @@ input, textarea {
     padding: 0.8rem;
     margin-bottom: 1rem;
     font-size: 1rem;
-    border: 1px solid #ccc;
+    border: 1px solid #cc7878fc;
     border-radius: 0.5rem;
-    background-color: #f9f9f9;
+    background-color: #efe4e4;
 }
 
 button {
