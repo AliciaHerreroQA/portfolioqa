@@ -65,4 +65,4 @@ Release will be consider ready when:
 
 ## AUTHOR
 Alicia Herrero, QA Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/alicia-herrero-323482177/)
