@@ -1,6 +1,6 @@
 # PORTFOLIO
 This is my QA portfolio.
-https://github.com/AliciaHerreroQA/portfolioqa)
+https://aliciaherreroqa.github.io/portfolioqa/
 
 ## BUILD WITH
 * ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,9 +60,9 @@ Release will be consider ready when:
 
 ## 11. Deliverables
 - **[Functional Test Results](testresultsreport.pdf)**: A document summarizing the execution and results of all functional test cases.
-- **[BUG Report](errorreport.pdf)**: Detailed documentation of any defects found during testing, including severity, steps to reproduce, and resolution.
-- **[Regression Test Execution Report](regressiontestreport.pdf)**: A report outlining the results of regression tests executed at the end of each sprint.
+- **[BUG Report](reportedeerrores.pdf)**: Detailed documentation of any defects found during testing, including severity, steps to reproduce, and resolution.
+- **[Regression Test Execution Report](reportedepruebasderegresion.pdf)**: A report outlining the results of regression tests executed at the end of each sprint.
 
 ## AUTHOR
 Alicia Herrero, QA Engineer
-[LinkedIn Profile](https://www.linkedin.com/in/reyescuesta)
+[LinkedIn Profile](https://www.linkedin.com/in/alicia-herrero-323482177/)
